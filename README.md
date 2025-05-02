@@ -54,15 +54,16 @@ begin
 	  else 
 	     count <= count + 1;
 end 
-endmodule
+endmodule 
 ```
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-![image](https://github.com/user-attachments/assets/5007a749-89fe-4e18-a121-33b67b324831)
+
+![image](https://github.com/user-attachments/assets/6f442d0a-ce58-4704-81fc-df7f4a1e9291)
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![image](https://github.com/user-attachments/assets/5de3e6f8-41a6-434b-ac11-ff343f7643bb)
+![image](https://github.com/user-attachments/assets/c389fd2e-75e2-41a6-8a5c-6a3b19245843)
 
 
 **RESULTS**
